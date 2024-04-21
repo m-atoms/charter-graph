@@ -8,8 +8,7 @@ service; to foster social harmony and cohesion; and to assure equality of
 opportunity for every resident:
 We, the people of the City and County of San Francisco, ordain and establish
 this Charter as the fundamental law of the City and County.
-ARTICLE I:
-EXISTENCE AND POWERS OF THE CITY AND COUNTY 
+ARTICLE I: EXISTENCE AND POWERS OF THE CITY AND COUNTY 
 SEC. 1.100. NAME AND BOUNDARIES.
    The City and County of San Francisco shall continue as a consolidated City
 and County with such boundaries as are prescribed by law, pursuant to this
@@ -24,8 +23,7 @@ all matters and proceedings.
    All rights and powers of a City and County which are not vested in another
 officer or entity by this Charter shall be exercised by the Board of
 Supervisors.
-ARTICLE II:
-LEGISLATIVE BRANCH
+ARTICLE II: LEGISLATIVE BRANCH
 SEC. 2.100. COMPOSITION AND SALARY.
    The Board of Supervisors shall consist of eleven members elected by
 district.
@@ -325,8 +323,7 @@ education, training and experience for the position to be filled. The Budget
 Analyst shall be responsible for such duties as the Board of Supervisors shall
 prescribe.
 (Amended by Proposition B, Approved 11/5/2009)
-ARTICLE III:
-EXECUTIVE BRANCH – OFFICE OF MAYOR
+ARTICLE III: EXECUTIVE BRANCH – OFFICE OF MAYOR
 SEC. 3.100. POWERS AND RESPONSIBILITIES.
    The Mayor shall be the chief executive officer and the official
 representative of the City and County, and shall serve full time in that
@@ -544,8 +541,7 @@ other obligation as these become due, or that he or she expects sufficient
 unencumbered balances to be available in the proper fund during the course of
 the budgetary cycle to meet the payments as they become due.
 (Amended November 2003; Amended by Proposition A, Approved 11/5/2009)
-ARTICLE IV:
-EXECUTIVE BRANCH – BOARDS, COMMISSIONS AND DEPARTMENTS
+ARTICLE IV: EXECUTIVE BRANCH – BOARDS, COMMISSIONS AND DEPARTMENTS
 SEC. 4.100. GENERAL.
    In addition to the office of the Mayor, the executive branch of the City and
 County shall be composed of departments, appointive boards, commissions and
@@ -2324,8 +2320,7 @@ this Section
 4.141.
 (Added by Proposition_B, Approved 11/3/2020; amended by Proposition_B, Approved
 11/8/2022)
-ARTICLE V:
-EXECUTIVE BRANCH – ARTS AND CULTURE
+ARTICLE V: EXECUTIVE BRANCH – ARTS AND CULTURE
 SEC. 5.100. GENERAL.
    The arts and culture departments of the City and County shall be the Arts
 Commission, the Asian Art Museum of San Francisco, the Fine Arts Museums of San
@@ -2485,8 +2480,7 @@ purposes for which the Center exists. Members may be removed by the Mayor only
 pursuant to Section
 15.105.
    The governing board shall appoint and may remove a director.
-ARTICLE VI:
-OTHER ELECTIVE OFFICERS
+ARTICLE VI: OTHER ELECTIVE OFFICERS
 SEC. 6.100. DESIGNATION OF OTHER ELECTIVE OFFICERS.
    In addition to the officers required to be elected under other Articles of
 this Charter, the following shall constitute the elective officers of the City
@@ -2685,8 +2679,7 @@ investment in accordance with sound financial practices, and shall be
 responsible for collection of delinquent revenue. The Treasurer shall appoint a
 Chief Assistant and a Tax Collector who shall serve at the pleasure of the
 Treasurer.
-ARTICLE VII:
-JUDICIAL BRANCH
+ARTICLE VII: JUDICIAL BRANCH
 SEC. 7.100. SUPERIOR AND MUNICIPAL COURTS.
    The powers and duties of the Superior and Municipal Courts are as prescribed
 by state law.
@@ -2718,8 +2711,7 @@ powers and duties conferred upon such Chief Juvenile Probation Officers,
 assistants and deputies by state law; and they shall perform all of the duties
 prescribed by such laws, and such additional duties as may be prescribed by
 ordinances of the Board of Supervisors.
-ARTICLE VIII:
-EDUCATION AND LIBRARIES
+ARTICLE VIII: EDUCATION AND LIBRARIES
 SEC. 8.100. UNIFIED SCHOOL DISTRICT.
    The Unified School District shall be under the control and management of a
 Board of Education composed of seven members who shall be elected pursuant to
@@ -2773,8 +2765,7 @@ and in the establishment and maintenance of the Law Library.
    The judiciary, City, County and state officials, members of the Bar, and all
 inhabitants of the City and County shall have free access, use and enjoyment of
 the Law Library, subject to the rules and regulations of the Trustees.
-ARTICLE VIIIA:
-THE MUNICIPAL TRANSPORTATION AGENCY
+ARTICLE VIIIA: THE MUNICIPAL TRANSPORTATION AGENCY
 SEC. 8A.100. PREAMBLE.
    (a)   An effective, efficient, and safe transportation system is vital for
 San Francisco to achieve its goals for quality of life, environmental
@@ -3772,8 +3763,7 @@ spaces are approved by a four-fifths vote of the Board of Supervisors. The
 Board of Supervisors may reduce the maximum parking required or permitted by
 this section.
 (Amended by Proposition A, Approved 11/6/2007)
-ARTICLE VIIIB:
-PUBLIC UTILITIES
+ARTICLE VIIIB: PUBLIC UTILITIES
 SEC. 8B.120. PREAMBLE.
    The Public Utilities Commission operates the Water, Clean Water and Power
 Utilities of the City and County of San Francisco. Hetch Hetchy Water and Power
@@ -4041,8 +4031,7 @@ Program is completed expeditiously and efficiently, the Public Utilities
 Commission is authorized, to the extent legally appropriate, to enter into
 project labor agreements, with appropriate Building Construction and Trades
 Councils, covering significant capital projects.
-ARTICLE IX:
-FINANCIAL PROVISIONS
+ARTICLE IX: FINANCIAL PROVISIONS
 SEC. 9.100. BUDGET PROCESS ORDINANCES.
    (a)   The fiscal year for the City and County shall commence on the first
 day of July of each year and shall end on the last day of June of the next
@@ -4598,8 +4587,7 @@ identified as financial policies adopted under this Section.
 suspend, in whole or in part, any ordinance containing these policies for the
 succeeding fiscal year.
 (Added by Proposition A, Approved 11/5/2009)
-ARTICLE X:
-PERSONNEL ADMINISTRATION
+ARTICLE X: PERSONNEL ADMINISTRATION
 SEC. 10.100. CIVIL SERVICE COMMISSION.
    There is hereby established a Civil Service Commission which is charged with
 the duty of providing qualified persons for appointment to the service of the
@@ -4878,8 +4866,7 @@ exists shall not exceed three years. Provisional appointments may only be
 renewed with the approval of the Board of Supervisors and upon certification by
 the Human Resources Director that for reasons beyond his or her control the
 Department has been unable to conduct examinations for these positions.
-ARTICLE XI:
-EMPLOYER-EMPLOYEE RELATIONS SYSTEM
+ARTICLE XI: EMPLOYER-EMPLOYEE RELATIONS SYSTEM
 SEC. 11.100. GENERAL.
    Subject to this Charter and consistent with state law, the Mayor through the
 Human Resources Director or his/her designee and in consultation with the Board
@@ -4919,8 +4906,7 @@ employees and/or their designated representatives;
    3.   Negotiate and administer memoranda of understanding; and
    4.   Perform related duties necessary to administer the employee relations
 functions of the City and County.
-ARTICLE XII:
-EMPLOYEE RETIREMENT AND HEALTH SERVICE SYSTEMS
+ARTICLE XII: EMPLOYEE RETIREMENT AND HEALTH SERVICE SYSTEMS
 SEC. 12.100. RETIREMENT BOARD.
    (a)   The Retirement Board shall consist of seven members as follows: one
 member of the Board of Supervisors appointed by the President, three public
@@ -5147,8 +5133,7 @@ for a term of five years. No person may serve simultaneously as a trustee on
 the Board and as an elected or appointed member of the San Francisco Employees'
 Retirement System Board or the Health Service System Board.
 (Amended by Proposition B, 6/3/2008; Proposition A, 11/5/2013)
-ARTICLE XIII:
-ELECTIONS
+ARTICLE XIII: ELECTIONS
 SEC. 13.100. CITY AND COUNTY ELECTIONS.
    The Board of Supervisors shall adopt an Elections Code consistent with the
 provisions of this Charter. Where not otherwise provided by this Charter or by
@@ -5645,8 +5630,7 @@ enacting this Section. Nothing in this Section shall alter the definition of
 “elector” or “voter” set forth in
 Article XVII of this Charter.
 (Added by Proposition N, Approved 11/8/2016)
-ARTICLE XIV:
-INITIATIVE, REFERENDUM AND RECALL
+ARTICLE XIV: INITIATIVE, REFERENDUM AND RECALL
 SEC. 14.100. GENERAL.
    Except as otherwise provided in this Article, the voters of the City and
 County shall have the power to enact initiatives and the power to nullify acts
@@ -5708,8 +5692,7 @@ SEC. 14.104. PETITIONS – WITHDRAWAL OF SIGNATURES.
 withdraw his or her name from such petition by filing with the Director of
 Elections a verified revocation of that signature prior to the filing of such
 petition itself.
-ARTICLE XV:
-ETHICS 
+ARTICLE XV: ETHICS 
 SEC. 15.100. ETHICS COMMISSION.
    The Ethics Commission shall consist of five members who shall serve six-year
 terms; provided that the first five commissioners to be appointed to take
@@ -5920,8 +5903,7 @@ SEC. 15.107. REPORTING OF CAMPAIGN FINANCING.
 campaign contributions and expenditures and any limitations thereon with
 respect to candidates for elective office and ballot measures in the City and
 County.
-ARTICLE XVI:
-MISCELLANEOUS PROVISIONS
+ARTICLE XVI: MISCELLANEOUS PROVISIONS
 SEC. 16.101. ACQUISITION OF PUBLIC UTILITIES.
    It is the declared purpose and intention of the people of the City and
 County, when public interest and necessity demand, that public utilities shall
@@ -9055,8 +9037,7 @@ described in this Section
 the City Attorney may cause it to be removed from the Charter unless the
 Section is extended by the voters.
 (Added by Proposition_G, Approved 11/8/2022)
-ARTICLE XVII:
-DEFINITIONS
+ARTICLE XVII: DEFINITIONS
    For all purposes of this Charter, the following terms shall have the
 meanings specified below:
    "Business day" shall mean any day other than a Saturday, Sunday or holiday
